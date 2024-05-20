@@ -1,4 +1,4 @@
-# Iventis Teste de Back-end
+# Iventis teste de Back-end
 ## Steps:
 
 Executar a aplicação Application.class.
