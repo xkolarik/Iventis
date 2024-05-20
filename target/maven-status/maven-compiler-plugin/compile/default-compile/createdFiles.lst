@@ -1,0 +1,9 @@
+com\baeldung\apiswagger\model\Cliente.class
+com\baeldung\apiswagger\client\DadosApiClient.class
+com\baeldung\apiswagger\service\impl\CompraServiceImpl.class
+com\baeldung\apiswagger\model\Produto.class
+com\baeldung\apiswagger\model\Compra.class
+com\baeldung\apiswagger\config\SwaggerConfiguration.class
+com\baeldung\apiswagger\Application.class
+com\baeldung\apiswagger\api\controller\ComprasController.class
+com\baeldung\apiswagger\service\CompraService.class
